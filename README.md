@@ -19,7 +19,7 @@ Contact people:
 | 2026-02-12 | Leon Oostrum | Debugging MPI + GPU code on HPC systems |
 | 2026-03-05 | Alexander Hadjiivanov | Tutorial on Neuromorphic Computing |
 | 2026-04-02 | SIG | Project update session |
-| 2026-05-28 | Codeglass.io | Demo of CodeGlass (tentative title) |
+| 2026-05-28 | Codeglass.io | Demo of CodeGlass |
 | 2026-06-25 | - | - |
 | 2026-09-17 | - | - |
 | 2026-11-12 | - | - |
