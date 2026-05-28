@@ -21,7 +21,7 @@ Contact people:
 | 2026-04-02 | SIG | Project update session |
 | 2026-05-28 | Tyrone Krieger (CodeGlass) | See what your Julia Code is actually doing |
 | 2026-06-25 | - | - |
-| 2026-09-17 | - | - |
+| 2026-09-17 | Bart Schilperoort, Stefan Verhoeven | Protein Detective (tenative title) |
 | 2026-11-12 | - | - |
 | 2026-12-10 | - | - |
 
