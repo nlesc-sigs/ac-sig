@@ -22,7 +22,7 @@ Contact people:
 | 2026-05-28 | Tyrone Krieger (CodeGlass) | See what your Julia Code is actually doing |
 | 2026-09-17 | Bart Schilperoort, Stefan Verhoeven | Accelerating PowerFit |
 | 2026-11-12 | Victor Azizi | How (well) is OpenACC implemented? |
-| 2026-12-10 | Floris-Jan Willemsen | Abstract, Portable, Performant: Autotuning in Julia |
+| 2026-12-10 | Floris-Jan Willemsen (Leiden University) | Abstract, Portable, Performant: Autotuning in Julia |
 
 # 2025 Calendar
 
